@@ -1,0 +1,1408 @@
+/*1025-1199*/
+@media only screen and (min-width: 1025px) and (max-width: 1199px) {
+    /* header section start */
+
+    /* header section end */
+}
+
+/*992-1024*/
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+    .imgbox img {
+        width: 280px;
+    }
+
+    h2.FNAME {
+        font-size: 70px;
+    }
+
+    h2.LNAME {
+        font-size: 70px;
+    }
+
+    .bioline p {
+        font-size: 16px;
+    }
+
+    .second {
+        width: 100%;
+    }
+
+    .first {
+        width: 100%;
+    }
+
+    .content h3 {
+        font-size: 29px;
+    }
+
+    .tcontent h3 {
+        font-size: 16px;
+    }
+
+    .service1 {
+        padding: 50px 25px;
+    }
+
+    .projectimg img {
+        width: 294px;
+    }
+
+
+
+}
+
+
+/*768-991*/
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .imgbox img {
+        width: 246px;
+    }
+
+    h2.FNAME {
+        font-size: 65px;
+    }
+
+    h2.LNAME {
+        font-size: 64px;
+    }
+
+    .bioline p {
+        font-size: 16px;
+    }
+
+    .second {
+        width: 100%;
+    }
+
+    .first {
+        width: 100%;
+    }
+
+    .content h3 {
+        font-size: 22px;
+        line-height: 36px;
+    }
+
+    .tcontent h3 {
+        font-size: 18px;
+    }
+
+    .service1 {
+        padding: 30px 20px;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .projectimg img {
+        width: 216px;
+    }
+
+    div#navbarNavDropdown {
+        background: #F7F7F7;
+        text-align: center;
+        padding: 10px;
+    }
+
+    div#triger h2 {
+        font-size: 16px;
+    }
+
+    div#secondtriger h2 {
+        font-size: 16px;
+    }
+
+    div#thirdtriger h2 {
+        font-size: 16px;
+    }
+
+    section.hero {
+        padding: 120px 0px;
+    }
+
+    .htittl h3 {
+        font-size: 30px;
+    }
+
+    .estiakanme h3 {
+        font-size: 16px;
+    }
+
+    .phone_service select {
+        margin-left: 7px;
+    }
+
+    section.service {
+        padding: 120px 0px;
+    }
+
+    .tittleh h3 {
+        font-size: 30px;
+    }
+
+    .sectiontitle h3 {
+        font-size: 30px;
+    }
+
+    section.contact {
+        padding: 120px 0px;
+    }
+
+
+}
+
+/*576-767*/
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .imgbox img {
+        width: 246px;
+        margin: 0;
+        float: none;
+        text-align: center;
+    }
+
+    h2.FNAME {
+        font-size: 65px;
+        width: 100%;
+        padding-top: 25px;
+    }
+
+    h2.LNAME {
+        font-size: 64px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    .bioline p {
+        font-size: 16px;
+    }
+
+    .second {
+        width: 100%;
+    }
+
+    .first {
+        width: 100%;
+    }
+
+    .content h3 {
+        font-size: 23px;
+        line-height: 36px;
+    }
+
+    .tcontent h3 {
+        font-size: 22px;
+    }
+
+    .service1 {
+        padding: 55px 55px;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .projectimg img {
+        width: 100%;
+    }
+
+    div#navbarNavDropdown {
+        background: #F7F7F7;
+        text-align: center;
+        padding: 10px;
+    }
+
+    div#triger h2 {
+        font-size: 17px;
+    }
+
+    div#secondtriger h2 {
+        font-size: 17px;
+    }
+
+    div#thirdtriger h2 {
+        font-size: 17px;
+    }
+
+    section.hero {
+        padding: 120px 0px;
+    }
+
+    .htittl h3 {
+        font-size: 28px;
+    }
+
+    .estiakanme h3 {
+        font-size: 16px;
+    }
+
+    .phone_service select {
+        margin-left: 5px;
+    }
+
+    section.service {
+        padding: 120px 0px;
+    }
+
+    .tittleh h3 {
+        font-size: 28px;
+    }
+
+    .sectiontitle h3 {
+        font-size: 28px;
+    }
+
+    section.contact {
+        padding: 120px 0px;
+    }
+
+    .row.hrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.hcol {
+        width: 100%;
+        text-align: center;
+    }
+
+    .row.portfoliorow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+    }
+
+    .textbox {
+        text-align: center;
+        margin: auto;
+    }
+
+    .bioline {
+        width: 74%;
+        margin: auto;
+    }
+
+    .row.aboutrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.fistabout {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+
+    .col-xs-12.col-sm-6.skillabout {
+        width: 100%;
+    }
+
+    section.aboutsec {
+        background: #F7F7F7;
+        padding: 120px 0px;
+    }
+
+    .row.servicerow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.servecol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    div#showprofile h3 {
+        font-size: 16px;
+    }
+
+    .contacttittle h3 {
+        font-size: 16px;
+    }
+
+
+
+
+}
+
+/*480-575*/
+@media only screen and (min-width: 480px) and (max-width: 575px) {
+    .imgbox img {
+        width: 246px;
+        margin: 0;
+        float: none;
+        text-align: center;
+    }
+
+    h2.FNAME {
+        font-size: 65px;
+        width: 100%;
+        padding-top: 25px;
+    }
+
+    h2.LNAME {
+        font-size: 64px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    .bioline p {
+        font-size: 16px;
+    }
+
+    .second {
+        width: 100%;
+    }
+
+    .first {
+        width: 100%;
+    }
+
+    .content h3 {
+        font-size: 23px;
+        line-height: 36px;
+    }
+
+    .tcontent h3 {
+        font-size: 22px;
+    }
+
+    .service1 {
+        padding: 55px 55px;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .projectimg img {
+        width: 100%;
+    }
+
+    div#navbarNavDropdown {
+        background: #F7F7F7;
+        text-align: center;
+        padding: 10px;
+    }
+
+    div#triger h2 {
+        font-size: 17px;
+    }
+
+    div#secondtriger h2 {
+        font-size: 17px;
+    }
+
+    div#thirdtriger h2 {
+        font-size: 17px;
+    }
+
+    section.hero {
+        padding: 100px 0px;
+    }
+
+    .htittl h3 {
+        font-size: 28px;
+    }
+
+    .estiakanme h3 {
+        font-size: 16px;
+    }
+
+    .phone_service select {
+        margin-left: 0px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    section.service {
+        padding: 100px 0px;
+    }
+
+    .tittleh h3 {
+        font-size: 28px;
+        padding: 0px 20px;
+        padding-top: 15px;
+    }
+
+    .sectiontitle h3 {
+        font-size: 28px;
+        padding: 0px 20px;
+    }
+
+    section.contact {
+        padding: 100px 0px;
+    }
+
+    .row.hrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.hcol {
+        width: 100%;
+        text-align: center;
+    }
+
+    .row.portfoliorow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+    }
+
+    .textbox {
+        text-align: center;
+        margin: auto;
+    }
+
+    .bioline {
+        width: 85%;
+        margin: auto;
+    }
+
+    .row.aboutrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.fistabout {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+
+    .col-xs-12.col-sm-6.skillabout {
+        width: 100%;
+    }
+
+    section.aboutsec {
+        background: #F7F7F7;
+        padding: 100px 0px;
+    }
+
+    .row.servicerow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.servecol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 20px;
+    }
+
+    div#showprofile h3 {
+        font-size: 16px;
+    }
+
+    .contacttittle h3 {
+        font-size: 16px;
+    }
+
+    .abouttxtdiv {
+        padding: 20px;
+    }
+
+    .skillbox {
+        padding: 20px;
+    }
+
+    .servicbox {
+        padding: 20px;
+    }
+
+    section.portfolio {
+        background: #F7F7F7;
+        padding: 100px 0px;
+    }
+
+    .namediv {
+        padding: 0px 20px;
+    }
+
+    .showallbtn h2 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .socialmedia {
+        padding: 20px 20px;
+    }
+
+    .contactform {
+        padding: 4px 20px;
+    }
+
+    .name_email {
+        display: block;
+        padding-bottom: 0;
+    }
+
+    .n {
+        width: 100%;
+    }
+
+    .e {
+        width: 100%;
+    }
+
+    .phone_service {
+        display: block;
+    }
+
+    .name_email input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .phone_service input {
+        width: 100%;
+        padding: 15px;
+        padding-left: 30px;
+        margin-top: 20px;
+    }
+
+    .e span {
+        padding-left: 0;
+    }
+
+    .name_email .n input {
+        margin-top: 0px;
+    }
+
+    .form {
+        background: #F7F7F7;
+        padding: 25px;
+    }
+
+    .row.footerrow {
+        display: flex !important;
+    }
+
+    .col-xs-12.col-sm-6.footercol {
+        width: 50%;
+    }
+
+}
+
+/*425-479*/
+@media only screen and (min-width: 425px) and (max-width: 479px) {
+    .imgbox img {
+        width: 230px;
+        margin: 0;
+        float: none;
+        text-align: center;
+    }
+
+    h2.FNAME {
+        font-size: 65px;
+        width: 100%;
+        padding-top: 25px;
+    }
+
+    h2.LNAME {
+        font-size: 64px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    .bioline p {
+        font-size: 16px;
+    }
+
+    .second {
+        width: 100%;
+    }
+
+    .first {
+        width: 100%;
+    }
+
+    .content h3 {
+        font-size: 23px;
+        line-height: 36px;
+    }
+
+    .tcontent h3 {
+        font-size: 22px;
+    }
+
+    .service1 {
+        padding: 55px 55px;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .projectimg img {
+        width: 100%;
+    }
+
+    div#navbarNavDropdown {
+        background: #F7F7F7;
+        text-align: center;
+        padding: 10px;
+    }
+
+    div#triger h2 {
+        font-size: 17px;
+    }
+
+    div#secondtriger h2 {
+        font-size: 17px;
+    }
+
+    div#thirdtriger h2 {
+        font-size: 17px;
+    }
+
+    section.hero {
+        padding: 100px 0px;
+    }
+
+    .htittl h3 {
+        font-size: 28px;
+    }
+
+    .estiakanme h3 {
+        font-size: 16px;
+    }
+
+    .phone_service select {
+        margin-left: 0px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    section.service {
+        padding: 95px 0px;
+    }
+
+    .tittleh h3 {
+        font-size: 28px;
+        padding: 0px 20px;
+        padding-top: 15px;
+    }
+
+    .sectiontitle h3 {
+        font-size: 28px;
+        padding: 0px 10px;
+    }
+
+    section.contact {
+        padding: 100px 0px;
+    }
+
+    .row.hrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.hcol {
+        width: 100%;
+        text-align: center;
+    }
+
+    .row.portfoliorow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+    }
+
+    .textbox {
+        text-align: center;
+        margin: auto;
+    }
+
+    .bioline {
+        width: 96%;
+        margin: auto;
+    }
+
+    .row.aboutrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.fistabout {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+
+    .col-xs-12.col-sm-6.skillabout {
+        width: 100%;
+    }
+
+    section.aboutsec {
+        background: #F7F7F7;
+        padding: 95px 0px;
+    }
+
+    .row.servicerow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.servecol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 20px;
+    }
+
+    div#showprofile h3 {
+        font-size: 16px;
+    }
+
+    .contacttittle h3 {
+        font-size: 16px;
+    }
+
+    .abouttxtdiv {
+        padding: 10px;
+    }
+
+    .skillbox {
+        padding: 10px;
+    }
+
+    .servicbox {
+        padding: 10px;
+    }
+
+    section.portfolio {
+        background: #F7F7F7;
+        padding: 100px 0px;
+    }
+
+    .namediv {
+        padding: 0px 10px;
+    }
+
+    .showallbtn h2 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .socialmedia {
+        padding: 20px 10px;
+    }
+
+    .contactform {
+        padding: 4px 10px;
+    }
+
+    .name_email {
+        display: block;
+        padding-bottom: 0;
+    }
+
+    .n {
+        width: 100%;
+    }
+
+    .e {
+        width: 100%;
+    }
+
+    .phone_service {
+        display: block;
+    }
+
+    .name_email input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .phone_service input {
+        width: 100%;
+        padding: 15px;
+        padding-left: 30px;
+        margin-top: 20px;
+    }
+
+    .e span {
+        padding-left: 0;
+    }
+
+    .name_email .n input {
+        margin-top: 0px;
+    }
+
+    .form {
+        background: #F7F7F7;
+        padding: 25px;
+    }
+
+    .row.footerrow {
+        display: flex !important;
+    }
+
+    .col-xs-12.col-sm-6.footercol {
+        width: 50%;
+    }
+
+    .showallbtn button {
+        border: none;
+        padding: 10px 20px;
+        background: black;
+        color: white;
+        font-weight: 700;
+        font-size: 14px;
+    }
+
+}
+
+/*375-424*/
+@media only screen and (min-width: 375px) and (max-width: 424px) {
+    .imgbox img {
+        width: 230px;
+        margin: 0;
+        float: none;
+        text-align: center;
+    }
+
+    h2.FNAME {
+        font-size: 60px;
+        width: 100%;
+        padding-top: 25px;
+    }
+
+    h2.LNAME {
+        font-size: 60px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    .bioline p {
+        font-size: 15px;
+    }
+
+    .second {
+        width: 100%;
+    }
+
+    .first {
+        width: 100%;
+    }
+
+    .content h3 {
+        font-size: 23px;
+        line-height: 36px;
+    }
+
+    .tcontent h3 {
+        font-size: 21px;
+    }
+
+    .service1 {
+        padding: 55px 55px;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .projectimg img {
+        width: 100%;
+    }
+
+    div#navbarNavDropdown {
+        background: #F7F7F7;
+        text-align: center;
+        padding: 10px;
+    }
+
+    div#triger h2 {
+        font-size: 16px;
+    }
+
+    div#secondtriger h2 {
+        font-size: 16px;
+    }
+
+    div#thirdtriger h2 {
+        font-size: 16px;
+    }
+
+    section.hero {
+        padding: 100px 0px;
+    }
+
+    .htittl h3 {
+        font-size: 26px;
+    }
+
+    .estiakanme h3 {
+        font-size: 16px;
+    }
+
+    .phone_service select {
+        margin-left: 0px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    section.service {
+        padding: 95px 0px;
+    }
+
+    .tittleh h3 {
+        font-size: 26px;
+        padding: 0px 10px;
+        padding-top: 15px;
+    }
+
+    .sectiontitle h3 {
+        font-size: 26px;
+        padding: 0px 10px;
+    }
+
+    section.contact {
+        padding: 90px 0px;
+    }
+
+    .row.hrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.hcol {
+        width: 100%;
+        text-align: center;
+    }
+
+    .row.portfoliorow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+    }
+
+    .textbox {
+        text-align: center;
+        margin: auto;
+    }
+
+    .bioline {
+        width: 100%;
+        margin: auto;
+    }
+
+    .row.aboutrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.fistabout {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+
+    .col-xs-12.col-sm-6.skillabout {
+        width: 100%;
+    }
+
+    section.aboutsec {
+        background: #F7F7F7;
+        padding: 90px 0px;
+    }
+
+    .row.servicerow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.servecol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 20px;
+    }
+
+    div#showprofile h3 {
+        font-size: 16px;
+    }
+
+    .contacttittle h3 {
+        font-size: 16px;
+    }
+
+    .abouttxtdiv {
+        padding: 10px;
+    }
+
+    .skillbox {
+        padding: 10px;
+    }
+
+    .servicbox {
+        padding: 10px;
+    }
+
+    section.portfolio {
+        background: #F7F7F7;
+        padding: 90px 0px;
+    }
+
+    .namediv {
+        padding: 0px 10px;
+    }
+
+    .showallbtn h2 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .socialmedia {
+        padding: 20px 10px;
+    }
+
+    .contactform {
+        padding: 4px 10px;
+    }
+
+    .name_email {
+        display: block;
+        padding-bottom: 0;
+    }
+
+    .n {
+        width: 100%;
+    }
+
+    .e {
+        width: 100%;
+    }
+
+    .phone_service {
+        display: block;
+    }
+
+    .name_email input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .phone_service input {
+        width: 100%;
+        padding: 15px;
+        padding-left: 30px;
+        margin-top: 20px;
+    }
+
+    .e span {
+        padding-left: 0;
+    }
+
+    .name_email .n input {
+        margin-top: 0px;
+    }
+
+    .form {
+        background: #F7F7F7;
+        padding: 25px;
+    }
+
+    .row.footerrow {
+        display: flex !important;
+    }
+
+    .col-xs-12.col-sm-6.footercol {
+        width: 50%;
+    }
+
+    .showallbtn button {
+        border: none;
+        padding: 10px 20px;
+        background: black;
+        color: white;
+        font-weight: 700;
+        font-size: 14px;
+    }
+
+    .box h4 {
+        font-size: 14px;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+    }
+
+
+}
+
+/*320-374*/
+@media only screen and (min-width: 320px) and (max-width: 374px) {
+    .imgbox img {
+        width: 220px;
+        margin: 0;
+        float: none;
+        text-align: center;
+    }
+
+    h2.FNAME {
+        font-size: 60px;
+        width: 100%;
+        padding-top: 25px;
+    }
+
+    h2.LNAME {
+        font-size: 60px;
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    .bioline p {
+        font-size: 15px;
+    }
+
+    .second {
+        width: 100%;
+    }
+
+    .first {
+        width: 100%;
+    }
+
+    .content h3 {
+        font-size: 23px;
+        line-height: 36px;
+    }
+
+    .tcontent h3 {
+        font-size: 21px;
+    }
+
+    .service1 {
+        padding: 55px 38px;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    .projectimg img {
+        width: 100%;
+    }
+
+    div#navbarNavDropdown {
+        background: #F7F7F7;
+        text-align: center;
+        padding: 10px;
+    }
+
+    div#triger h2 {
+        font-size: 15px;
+    }
+
+    div#secondtriger h2 {
+        font-size: 15px;
+    }
+
+    div#thirdtriger h2 {
+        font-size: 15px;
+    }
+
+    section.hero {
+        padding: 100px 0px;
+    }
+
+    .htittl h3 {
+        font-size: 26px;
+    }
+
+    .estiakanme h3 {
+        font-size: 16px;
+    }
+
+    .phone_service select {
+        margin-left: 0px;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    section.service {
+        padding: 95px 0px;
+    }
+
+    .tittleh h3 {
+        font-size: 26px;
+        padding: 0px 0px;
+        padding-top: 15px;
+    }
+
+    .sectiontitle h3 {
+        font-size: 26px;
+        padding: 0px 0px;
+    }
+
+    section.contact {
+        padding: 90px 0px;
+    }
+
+    .row.hrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.hcol {
+        width: 100%;
+        text-align: center;
+    }
+
+    .row.portfoliorow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+    }
+
+    .textbox {
+        text-align: center;
+        margin: auto;
+    }
+
+    .bioline {
+        width: 100%;
+        margin: auto;
+    }
+
+    .row.aboutrow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-6.fistabout {
+        width: 100%;
+        padding-bottom: 40px;
+    }
+
+    .col-xs-12.col-sm-6.skillabout {
+        width: 100%;
+    }
+
+    section.aboutsec {
+        background: #F7F7F7;
+        padding: 90px 0px;
+    }
+
+    .row.servicerow {
+        display: block;
+    }
+
+    .col-xs-12.col-sm-4.servecol {
+        width: 100%;
+    }
+
+    .col-xs-12.col-sm-4.portfoliocol {
+        width: 100%;
+        margin-bottom: 10px;
+        padding: 13px;
+    }
+
+    div#showprofile h3 {
+        font-size: 16px;
+    }
+
+    .contacttittle h3 {
+        font-size: 16px;
+    }
+
+    .abouttxtdiv {
+        padding: 0px;
+    }
+
+    .skillbox {
+        padding: 0px;
+    }
+
+    .servicbox {
+        padding: 0px;
+    }
+
+    section.portfolio {
+        background: #F7F7F7;
+        padding: 90px 0px;
+    }
+
+    .namediv {
+        padding: 0px 0px;
+    }
+
+    .showallbtn h2 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .socialmedia {
+        padding: 20px 0px;
+    }
+
+    .contactform {
+        padding: 4px 0px;
+    }
+
+    .name_email {
+        display: block;
+        padding-bottom: 0;
+    }
+
+    .n {
+        width: 100%;
+    }
+
+    .e {
+        width: 100%;
+    }
+
+    .phone_service {
+        display: block;
+    }
+
+    .name_email input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .phone_service input {
+        width: 100%;
+        padding: 15px;
+        padding-left: 30px;
+        margin-top: 20px;
+    }
+
+    .e span {
+        padding-left: 0;
+    }
+
+    .name_email .n input {
+        margin-top: 0px;
+    }
+
+    .form {
+        background: #F7F7F7;
+        padding: 15px;
+    }
+
+    .row.footerrow {
+        display: flex !important;
+    }
+
+    .col-xs-12.col-sm-6.footercol {
+        width: 50%;
+    }
+
+    .showallbtn button {
+        border: none;
+        padding: 10px 20px;
+        background: black;
+        color: white;
+        font-weight: 700;
+        font-size: 14px;
+    }
+
+    .box h4 {
+        font-size: 12px;
+        font-weight: 400;
+        margin: 0;
+        padding: 0;
+    }
+
+
+
+}

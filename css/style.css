@@ -1,0 +1,622 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Syne:wght@400;500;600;700;800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}   
+body{
+    font-family: 'Syne', sans-serif;
+}
+a.navbar-brand.font-weight-bold {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 30px;
+}
+ul.navbar-nav.ms-auto li a {
+    font-size: 18px;
+}
+
+ul.navbar-nav.ms-auto li {
+    padding-left: 17px;
+}
+h2.FNAME {
+    font-family: 'Archivo Black';
+    color: transparent;
+    -webkit-text-stroke: 1px #000;
+    font-size: 85px;
+    width: 82%;
+    text-align: center;
+}
+h2.LNAME {
+    font-family: 'Archivo Black';
+    font-size: 85px;
+    margin: 0;
+    line-height: 63px;
+    letter-spacing: 4px;
+    width: 82%;
+    text-align: center;
+}
+.bioline {
+    background: #F5F5F5;
+    width: 82%;
+    padding: 10px;
+    margin-top: 24px;
+    border-radius: 5px;
+}
+
+.bioline p {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: #868a9b;
+    font-size: 17px;
+}
+
+.imgbox img {
+    width: 350px;
+    float: right;
+    margin-right: 75px;
+}
+.imgbox{
+   animation: morph 8s ease-in-out infinite;
+}
+
+.row.hrow {
+    align-items: center;
+}
+section.hero {
+    padding: 143px 0px;
+}
+.stylediv {
+    width: 45px;
+    height: 3px;
+    background: #868a9b63;
+}
+.namediv {
+    display: flex;
+    align-items: center;
+}
+
+.estiakanme h3 {
+    margin: 0;
+    padding-left: 15px;
+    font-size: 18px;
+    color: #868a9b;
+}
+.content h3 {
+    font-family: 'Syne';
+    color: #000000;
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 20px;
+    line-height: 45px;
+}
+.descriptions p {
+    font-size: 16px;
+    color: #868a9b;
+    font-weight: 400;
+    line-height: 29px;
+    margin: 0;
+}
+.descriptions {
+    padding-top: 20px;
+}
+section.aboutsec {
+    background: #F7F7F7;
+    padding: 143px 0px;
+}
+div#triger {
+    background: #EAEAEA;
+    padding: 28px;
+    cursor: pointer;
+    padding-left: 46px;
+}
+div#secondtriger {
+    background: #EAEAEA;
+    padding: 28px;
+    cursor: pointer;
+    padding-left: 46px;
+}
+div#thirdtriger {
+    background: #EAEAEA;
+    padding: 28px;
+    cursor: pointer;
+    padding-left: 46px;
+}
+
+div#triger h2 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0;
+}
+div#secondtriger h2 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0;
+}
+div#thirdtriger h2 {
+    font-size: 17px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0;
+}
+.buttom p a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.buttom p a:hover {
+    text-decoration: underline;
+}
+.buttom {
+    background: white;
+    padding: 44px;
+ 
+}
+.buttom p {
+    color: #868a9b;
+}
+.first {
+    width: 85%;
+}
+.second {
+    width: 85%;
+}
+.buttom p:last-child {
+    margin: 0;
+}
+.progress-bar {
+    width: 0;
+    animation: progress 1.5s ease-in-out forwards;
+    
+    .title {
+      opacity: 0;
+      animation: show 0.35s forwards ease-in-out 0.5s;
+    }
+  } 
+  
+  @keyframes progress {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  } 
+  @keyframes show  {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+.labeltag{
+    font-size: 13px;
+    font-weight: 700;
+    color: #868a9b;
+    margin-bottom: 10px;
+}
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #D9D9D9;
+    transition: width .6s ease;
+}
+.progress {
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #F2F2F2;
+    border-radius: 0.25rem;
+    margin-top: 5px;
+}
+div#seccontroldiv {
+    padding: 20px 30px;
+}
+.first.second {
+    margin-top: 10px;
+}
+@keyframes fadeDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.buttom {
+    display: none;
+    animation: fadeDown 1s ease-out;
+}
+#controldiv{
+    display: block;
+}
+.htittl h3 {
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.tcontent h3 {
+    font-size: 20px;
+    font-weight: 700;
+    padding-bottom: 31px;
+    border-bottom: 1px solid #868a9b;
+}
+
+.list ul li {
+    font-size: 16px;
+    color: #868a9b;
+    line-height: 38px;
+}
+
+.icon i {
+    font-size: 37px;
+}
+
+.icon {
+    padding-bottom: 30px;
+}
+
+.list {
+    padding-top: 20px;
+}
+
+.service1 {
+    padding: 50px 33px;
+    background: #F7F7F7;
+    margin: 20px;
+    border-bottom: 7px solid #D9D9D9;
+}
+.tittletxtdiv {
+    margin: 20px;
+}
+.dborder {
+    width: 100%;
+    height: 3px;
+    background: #D9D9D9;
+}
+.htittl {
+    padding-bottom: 30px;
+}
+
+section.service {
+    padding: 143px 0px;
+}
+.tittleh h3 {
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+.projectimg img {
+    width: 357px;
+}
+
+.projectimg {
+    position: relative;
+}
+
+.projecttitle {
+    position: absolute;
+    top: 69%;
+    left: 33%;
+    background: black;
+    border-radius: 5px;
+    display: none;
+}
+
+.projecttitle h3 {
+    margin: 0;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+}
+.projectimg img:hover + .projecttitle {
+    display: block;
+}
+/* Define the keyframes for the fade-up animation */
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Apply the animation to the projecttitle class */
+.projecttitle {
+    opacity: 0; /* Start with 0 opacity */
+    animation: fadeUp 1s ease-in-out forwards; /* Animation properties */
+}
+.row.portfoliorow {
+    padding-top: 30px;
+}
+section.portfolio {
+    background: #F7F7F7;
+    padding: 143px 0px;
+}
+.showallbtn {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.showallbtn button {
+    border: none;
+    padding: 10px 20px;
+    background: black;
+    color: white;
+    font-weight: 700;
+}
+.showallbtn h2 {
+    font-size: 20px;
+    font-weight: 700;
+}
+.sectiontitle h3 {
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.profiles h3 {
+    font-size: 17px;
+    font-weight: 700;
+    font-family: 'Syne';
+    padding: 20px;
+    padding-left: 30px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.profiles {
+    background: #EAEAEA;
+    cursor: pointer;
+}
+
+.linksprofile ul li {
+    list-style: none;
+}
+
+.linksprofile ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+    line-height: 41px;
+}
+
+.linksprofile {
+    background: #F7F7F7;
+    padding: 10px 0px;
+}
+
+section.contact {
+    background: #ffffff;
+    padding: 143px 0px;
+}
+
+.socialmedia {
+    padding: 20px 0px;
+}
+.linksprofile {
+
+    display: none;
+    animation: fadeDown 1s ease-out;
+}
+.contacttittle h3 {
+    font-size: 17px;
+    font-weight: 700;
+    font-family: 'Syne';
+    padding: 20px;
+    padding-left: 30px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.contacttittle {
+    background: #EAEAEA;
+    cursor: pointer;
+}
+.form input {
+    background: #ffffff;
+    border: none;
+    outline: none;
+    border: 1px solid #0000001f;
+    color: black;
+}
+.name_email {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+.name_email input {
+    width: 98%;
+    padding: 15px;
+    color: #000000;
+    font-weight: 400;
+    padding-left: 30px;
+}
+.phone_service input {
+    width: 98%;
+    padding: 15px;
+    padding-left: 30px;
+}
+
+.phone_service select {
+    border: none;
+    width: 98%;
+    outline: none;
+    padding: 17px;
+    padding-left: 26px;
+    background: #ffffff;
+    color: #868a9b;
+    border: 1px solid #0000001f;
+    margin-left: 11px;
+}
+
+.phone_service {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+textarea#message {
+    border: none;
+    width: 100%;
+    background: #ffffff;
+    outline: none;
+    padding: 30px;
+    border: 1px solid #0000001f;
+}
+.filldiv input {
+    padding: 15px;
+    padding-left: 30px;
+    width: 100%;
+}
+.pinarea p {
+    margin: 0;
+}
+
+.pinarea {
+    background: black;
+    color: white;
+    padding: 10px;
+}
+
+.pindiv {
+    display: flex;
+    margin-top: 18px;
+}
+button#sumbitbtn {
+    border: none;
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+
+.form {
+    background: #F7F7F7;
+    padding: 40px;
+}
+.n {
+    width: 50%;
+}
+
+.e {
+    width: 50%;
+}
+.error {
+    color: red;
+    font-size: 15px;
+}
+.sectiontitle {
+    padding-bottom: 40px;
+}
+.filldiv {
+    width: 100%;
+}
+.e input {
+    float: inline-end;
+}
+.e span {
+    padding-left: 10px;
+}
+footer.footer {
+    background: #333333;
+    color: white;
+}
+
+.box {
+    float: right;
+}
+.namelogobox h3 {
+    font-family: 'Archivo Black', sans-serif;
+    margin: 0;
+}
+
+.box h4 {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+.row.footerrow {
+    align-items: center;
+    padding: 35px 0px;
+}
+button.navbar-toggler {
+    outline: none;
+    background: #F7F7F7;
+}
+section.recentwork {
+    background: #EAEAEA;
+}
+
+.titleboxrecent h3 {
+    margin: 0;
+    text-align: center;
+    font-weight: 700;
+    padding: 35px 0px;
+    font-size: 23px;
+    font-family: 'Archivo Black';
+    text-transform: uppercase;
+}
+/* filterable gallery start */
+.gallery {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-width: 33%;
+    -moz-column-width: 33%;
+    column-width: 33%;
+  }
+  
+  .gallery .pics {
+    -webkit-transition: all 350ms ease;
+    transition: all 350ms ease;
+  }
+  
+  .gallery .animation {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+  
+  @media (max-width: 450px) {
+    .gallery {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      column-count: 1;
+      -webkit-column-width: 100%;
+      -moz-column-width: 100%;
+      column-width: 100%;
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .btn.filter {
+      padding-left: 1.1rem;
+      padding-right: 1.1rem;
+    }
+  }
+/* filterable gallery end */
+section.recentworkportfolio {
+    padding: 55px 0px;
+    padding-bottom: 100px;
+}
